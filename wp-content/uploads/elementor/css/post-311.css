@@ -1,0 +1,29 @@
+.elementor-311 .elementor-element.elementor-element-1e269c1 > .elementor-container > .elementor-column > .elementor-widget-wrap {align-content: center;align-items: center;}
+.elementor-311 .elementor-element.elementor-element-1e269c1 {padding: 60px 0px 60px 0px;}
+.elementor-311 .elementor-element.elementor-element-9aa17c7 {text-align: center;}
+.elementor-311 .elementor-element.elementor-element-9aa17c7 .elementor-heading-title {color: #000;font-family: "Poor Story",Sans-serif;font-size: 40px;font-weight: 600;text-transform: uppercase;}
+.elementor-311 .elementor-element.elementor-element-009f473:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-311 .elementor-element.elementor-element-009f473 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: transparent;background-image: linear-gradient(180deg,#f2275a 0%,#0c174e 100%);}
+.elementor-311 .elementor-element.elementor-element-009f473 > .elementor-element-populated, .elementor-311 .elementor-element.elementor-element-009f473 > .elementor-element-populated > .elementor-background-overlay, .elementor-311 .elementor-element.elementor-element-009f473 > .elementor-background-slideshow {border-radius: 15px 15px 15px 15px;}
+.elementor-311 .elementor-element.elementor-element-009f473 > .elementor-element-populated {box-shadow: 7px 0px 40px 0px rgba(0,0,0,.5);transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin: 30px 15px 30px 15px;--e-column-margin-right: 15px;--e-column-margin-left: 15px;padding: 50px 20px 50px 20px;}
+.elementor-311 .elementor-element.elementor-element-009f473 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-311 .elementor-element.elementor-element-e16c397 {text-align: center;}
+.elementor-311 .elementor-element.elementor-element-e16c397 .elementor-heading-title {color: #fff;font-family: "Poppins",Sans-serif;font-size: 30px;font-weight: 700;text-transform: uppercase;}
+.elementor-311 .elementor-element.elementor-element-7b176c6 {text-align: right;}
+.elementor-311 .elementor-element.elementor-element-7b176c6 .elementor-heading-title {color: rgba(12,23,78,.05);font-family: "Poppins",Sans-serif;font-size: 105px;font-weight: 800;line-height: 0px;}
+.elementor-311 .elementor-element.elementor-element-7b176c6 > .elementor-widget-container {margin: -31px 18px 0px 0px;}
+.elementor-311 .elementor-element.elementor-element-d34b9c3 {text-align: center;}
+.elementor-311 .elementor-element.elementor-element-d34b9c3 .elementor-heading-title {color: #fff;font-family: "Poppins",Sans-serif;font-size: 54px;font-weight: 600;}
+.elementor-311 .elementor-element.elementor-element-8e7cd49 {text-align: center;color: #fff;font-family: "Poppins",Sans-serif;font-size: 16px;font-weight: 500;line-height: 22px;}
+.elementor-311 .elementor-element.elementor-element-e299200 .elementor-button {font-family: "Unna",Sans-serif;font-size: 13px;font-weight: 600;text-transform: uppercase;letter-spacing: 1.5px;fill: #fff;color: #fff;background-color: rgba(97,206,112,0);border-style: solid;border-width: 1px 1px 1px 1px;border-color: #fff;border-radius: 25px 25px 25px 25px;padding: 10px 15px 10px 15px;}
+.elementor-311 .elementor-element.elementor-element-e299200 .elementor-button:hover, .elementor-311 .elementor-element.elementor-element-e299200 .elementor-button:focus {color: #000;background-color: #fff;border-color: #fff;}
+.elementor-311 .elementor-element.elementor-element-e299200 .elementor-button:hover svg, .elementor-311 .elementor-element.elementor-element-e299200 .elementor-button:focus svg {fill: #000;}
+@media (max-width:1024px) {.elementor-311 .elementor-element.elementor-element-009f473 > .elementor-element-populated {margin: 30px 15px 30px 15px;--e-column-margin-right: 15px;--e-column-margin-left: 15px;}
+	.elementor-311 .elementor-element.elementor-element-7b176c6 .elementor-heading-title {font-size: 92px;}}
+@media (max-width:767px) {.elementor-311 .elementor-element.elementor-element-9aa17c7 .elementor-heading-title {font-size: 22px;}
+	.elementor-311 .elementor-element.elementor-element-009f473 > .elementor-element-populated {padding: 30px 0px 30px 0px;}
+	.elementor-311 .elementor-element.elementor-element-e16c397 .elementor-heading-title {font-size: 25px;}
+	.elementor-311 .elementor-element.elementor-element-7b176c6 .elementor-heading-title {font-size: 80px;}
+	.elementor-311 .elementor-element.elementor-element-d34b9c3 .elementor-heading-title {font-size: 40px;}}
+@media (max-width:1024px) and (min-width:768px) {.elementor-311 .elementor-element.elementor-element-7c64342 {width: 30%;}
+	.elementor-311 .elementor-element.elementor-element-009f473 {width: 40%;}
+	.elementor-311 .elementor-element.elementor-element-3f0267a {width: 30%;}}
